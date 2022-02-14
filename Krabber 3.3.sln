@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krabber 3.3", "Krabber 3.3.csproj", "{4E80449E-7F2A-438D-8D0C-5C9F0BA63648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E80449E-7F2A-438D-8D0C-5C9F0BA63648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E80449E-7F2A-438D-8D0C-5C9F0BA63648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E80449E-7F2A-438D-8D0C-5C9F0BA63648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E80449E-7F2A-438D-8D0C-5C9F0BA63648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1EA3D80-AEBD-437C-B676-DEA54413A0E9}
+	EndGlobalSection
+EndGlobal
