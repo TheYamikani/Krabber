@@ -33,7 +33,7 @@ namespace Krabber_3._3
                 input = input.Remove(input.Length - 1, 1);
             }
             output = output.Remove(output.Length - 1, 1);
-            label4.Text = output;
+    
 
 
             int start = Int32.Parse(starttxt.Text);
@@ -42,7 +42,7 @@ namespace Krabber_3._3
             {
                 using (var client = new WebClient())
                 {
-                    label4.Text = input.Substring(input.LastIndexOf('_')+1);
+                  
                     client.DownloadFile(input + start,filelocal.Text+@"\"+output+"_"+ start+".cbr");
                 }
                 start++;
