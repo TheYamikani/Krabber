@@ -16,3 +16,21 @@ D:\Development\KrabbeR V3\Krabber 3.3\obj\Debug\net5.0-windows\Krabber 3.3.dll
 D:\Development\KrabbeR V3\Krabber 3.3\obj\Debug\net5.0-windows\ref\Krabber 3.3.dll
 D:\Development\KrabbeR V3\Krabber 3.3\obj\Debug\net5.0-windows\Krabber 3.3.pdb
 D:\Development\KrabbeR V3\Krabber 3.3\obj\Debug\net5.0-windows\Krabber 3.3.genruntimeconfig.cache
+C:\Users\Msi i7\Documents\GitHub\Krabber\bin\Debug\net5.0-windows\Krabber 3.3.exe
+C:\Users\Msi i7\Documents\GitHub\Krabber\bin\Debug\net5.0-windows\Krabber 3.3.deps.json
+C:\Users\Msi i7\Documents\GitHub\Krabber\bin\Debug\net5.0-windows\Krabber 3.3.runtimeconfig.json
+C:\Users\Msi i7\Documents\GitHub\Krabber\bin\Debug\net5.0-windows\Krabber 3.3.runtimeconfig.dev.json
+C:\Users\Msi i7\Documents\GitHub\Krabber\bin\Debug\net5.0-windows\Krabber 3.3.dll
+C:\Users\Msi i7\Documents\GitHub\Krabber\bin\Debug\net5.0-windows\ref\Krabber 3.3.dll
+C:\Users\Msi i7\Documents\GitHub\Krabber\bin\Debug\net5.0-windows\Krabber 3.3.pdb
+C:\Users\Msi i7\Documents\GitHub\Krabber\obj\Debug\net5.0-windows\Krabber 3.3.csproj.AssemblyReference.cache
+C:\Users\Msi i7\Documents\GitHub\Krabber\obj\Debug\net5.0-windows\Krabber_3._3.Form1.resources
+C:\Users\Msi i7\Documents\GitHub\Krabber\obj\Debug\net5.0-windows\Krabber 3.3.csproj.GenerateResource.cache
+C:\Users\Msi i7\Documents\GitHub\Krabber\obj\Debug\net5.0-windows\Krabber 3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msi i7\Documents\GitHub\Krabber\obj\Debug\net5.0-windows\Krabber 3.3.AssemblyInfoInputs.cache
+C:\Users\Msi i7\Documents\GitHub\Krabber\obj\Debug\net5.0-windows\Krabber 3.3.AssemblyInfo.cs
+C:\Users\Msi i7\Documents\GitHub\Krabber\obj\Debug\net5.0-windows\Krabber 3.3.csproj.CoreCompileInputs.cache
+C:\Users\Msi i7\Documents\GitHub\Krabber\obj\Debug\net5.0-windows\Krabber 3.3.dll
+C:\Users\Msi i7\Documents\GitHub\Krabber\obj\Debug\net5.0-windows\ref\Krabber 3.3.dll
+C:\Users\Msi i7\Documents\GitHub\Krabber\obj\Debug\net5.0-windows\Krabber 3.3.pdb
+C:\Users\Msi i7\Documents\GitHub\Krabber\obj\Debug\net5.0-windows\Krabber 3.3.genruntimeconfig.cache

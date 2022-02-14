@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sJOnfT8Qzhgx3i7266wMOytaOkkW8JKREJa4UM5PLpEXitGvASS/UuawX0g5KR+0Bpuzktx2ne4WJmVd3RU+Dw==",
+  "dgSpecHash": "w65HAsH5KtdO1iWKcklINEOZPtq2IxpKUIinNeErHcqIdrqHMAhumopQO/6RbfltfnCw/HvhY08TrBvOBVgg7w==",
   "success": true,
-  "projectFilePath": "D:\\Development\\KrabbeR V3\\Krabber 3.3\\Krabber 3.3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Msi i7\\Documents\\GitHub\\Krabber\\Krabber 3.3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Msi i7\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\Msi i7\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Msi i7\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Msi i7\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

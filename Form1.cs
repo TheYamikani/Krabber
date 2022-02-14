@@ -25,10 +25,14 @@ namespace Krabber_3._3
             int name_length = input.Length;
            
             string output = input.Substring(input.LastIndexOf('/')+1);
+            string final=input.Substring(input.LastIndexOf('_')+1);
+     
             while (output[(output.Length-1)].ToString() != "_")
             {
                 output = output.Remove(output.Length - 1, 1);
+                input = input.Remove(input.Length - 1, 1);
             }
+            output = output.Remove(output.Length - 1, 1);
             label4.Text = output;
 
 
@@ -38,8 +42,8 @@ namespace Krabber_3._3
             {
                 using (var client = new WebClient())
                 {
-                    label4.Text = start.ToString();
-                    client.DownloadFile(linktxt.Text + start,filelocal.Text+@"\"+output+ start+".cbr");
+                    label4.Text = input.Substring(input.LastIndexOf('_')+1);
+                    client.DownloadFile(input + start,filelocal.Text+@"\"+output+"_"+ start+".cbr");
                 }
                 start++;
             }
@@ -60,6 +64,11 @@ namespace Krabber_3._3
             FolderBrowserDialog fbd = new FolderBrowserDialog(); ;
             if (fbd.ShowDialog() == System.Windows.Forms.DialogResult.OK)
              filelocal.Text = fbd.SelectedPath;
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
